@@ -19,7 +19,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
 
 # Set up the bot token
-TOKEN = os.getenv('TOKEN', '8100550883:AAEE6H_AYYkXNYMZwMBfqsDlgjsyFvvRGsY')  # Use environment variable or default
+TOKEN = os.getenv('TOKEN', '7636031908:AAHZcQSHpGwLhHu3jRtHJKh5MEA-MNhXR38')  # Use environment variable or default
 
 # Set up the User-Agent string
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
